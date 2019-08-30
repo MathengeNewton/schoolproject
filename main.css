@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    background-color: #101010 !important;
+}
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+.register-box{
+    max-width: 800px;
+    float: none;
+    margin: 150px auto;
+}
+.login{
+    background: rgba(161, 228, 197, 0.5);
+    padding: 30px;
+}
+.register{
+    background:rgba(161, 228, 197, 0.5);
+    padding: 20px;
+}
+
+.form-control{
+    background-color: transparent !important;
+    
+}
